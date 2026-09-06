@@ -28,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/saniyakhade-21/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/saniyakhade-21/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+## String
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/saniyakhade-21/Leetcode/tree/master/0115-distinct-subsequences) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/saniyakhade-21/Leetcode/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
