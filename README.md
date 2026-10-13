@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/saniyakhade-21/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/saniyakhade-21/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/saniyakhade-21/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/saniyakhade-21/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
@@ -77,4 +78,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/saniyakhade-21/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/saniyakhade-21/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Sorting
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/saniyakhade-21/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
